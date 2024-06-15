@@ -10,8 +10,10 @@ void Losen::ClickBtnClr() {
 	while ((item = ui.layOut->takeAt(0))) delete item->widget();
 }
 
+
+
 void Losen::ClickBtnInsert() {
-	//Disable Enable
+  //Disable Enable
 	ui.BtnInsert->setDisabled(true);
 	ui.BtnClr->setEnabled(true);
 	ui.BtnGrphClr->setEnabled(true);

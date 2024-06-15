@@ -1,0 +1,8 @@
+/media/try3/DiskD/LinuxProg/Losen/Losen/build/CMakeFiles/install/strip.dir
+/media/try3/DiskD/LinuxProg/Losen/Losen/build/CMakeFiles/install/local.dir
+/media/try3/DiskD/LinuxProg/Losen/Losen/build/CMakeFiles/install.dir
+/media/try3/DiskD/LinuxProg/Losen/Losen/build/CMakeFiles/list_install_components.dir
+/media/try3/DiskD/LinuxProg/Losen/Losen/build/CMakeFiles/rebuild_cache.dir
+/media/try3/DiskD/LinuxProg/Losen/Losen/build/CMakeFiles/edit_cache.dir
+/media/try3/DiskD/LinuxProg/Losen/Losen/build/CMakeFiles/Losen.dir
+/media/try3/DiskD/LinuxProg/Losen/Losen/build/CMakeFiles/Losen_autogen.dir

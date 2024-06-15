@@ -9,28 +9,25 @@ set(CMAKE_AUTORCC ON)
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
+#"/media/try3/DiskD/Libr/ortools" or where ortools installed
 list(APPEND CMAKE_PREFIX_PATH "/media/try3/DiskD/Libr/ortools")
 
 find_package(ortools REQUIRED CONFIG)
 find_package(QT NAMES Qt6 Qt5 REQUIRED COMPONENTS Widgets)
 find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Widgets)
 
-set(PROJECT_SOURCES
-	main.cpp
-	ButtonsOfCondition.cpp
-	ButtonsOfGraphic.cpp
-	ByttonsOfAnswer.cpp
-	GraphicsView.cpp
-	Losen.cpp
-	GraphicsView.h
-	Losen.h
-	Losen.ui
-)
+include_directories(hFiles)
+file(GLOB SRC "sFiles/*.cpp")
+file(GLOB HDR "hFiles/*.h")
+
+set(SOURCE ${SRC})
+set(HEADER ${HDR})
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(Losen
         MANUAL_FINALIZATION
-        ${PROJECT_SOURCES}
+        ${SOURCE}
+        ${HEADER}
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET Losen APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR
@@ -39,16 +36,15 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
 else()
     if(ANDROID)
         add_library(Losen SHARED
-            ${PROJECT_SOURCES}
+         ${SOURCE}
+         ${HEADER}
         )
 # Define properties for Android with Qt 5 after find_package() calls as:
 #    set(ANDROID_PACKAGE_SOURCE_DIR "${CMAKE_CURRENT_SOURCE_DIR}/android")
     else()
         add_executable(Losen
-            ${PROJECT_SOURCES}
-						ButtonsOfCondition.cpp ButtonsOfGraphic.cpp ByttonsOfAnswer.cpp   CMakeLists.txt.user GraphicsView.cpp GraphicsView.h Losen.cpp Losen.h Losen.ui
-
-
+         ${SOURCE}
+         ${HEADER}
         )
     endif()
 endif()

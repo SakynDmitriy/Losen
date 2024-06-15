@@ -1,0 +1,1283 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.20.6/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.20.6/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/Platform/Linux.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/Platform/Linux-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/ortools/ortoolsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/ortools/ortoolsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindZLIB.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/absl/abslConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/absl/abslConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/absl/abslTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/absl/abslTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/protobuf/protobuf-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/protobuf/protobuf-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/protobuf/protobuf-options.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/utf8_range/utf8_range-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/utf8_range/utf8_range-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/utf8_range/utf8_range-targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/protobuf/protobuf-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/protobuf/protobuf-targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/protobuf/protobuf-generate.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/ortools/modules/Findre2.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/re2/re2ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/re2/re2Config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/absl/abslConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/absl/abslConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/absl/abslTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/re2/re2Targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/re2/re2Targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/ortools/modules/FindClp.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/Clp/ClpConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/Clp/ClpConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/CoinUtils/CoinUtilsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/CoinUtils/CoinUtilsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/CoinUtils/CoinUtilsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/CoinUtils/CoinUtilsTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/Osi/OsiConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/Osi/OsiConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/CoinUtils/CoinUtilsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/CoinUtils/CoinUtilsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/CoinUtils/CoinUtilsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/Osi/OsiTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/Osi/OsiTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/Clp/ClpTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/Clp/ClpTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/ortools/modules/FindCbc.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/Cbc/CbcConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/Cbc/CbcConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/Cgl/CglConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/Cgl/CglConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/Clp/ClpConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/Clp/ClpConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/CoinUtils/CoinUtilsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/CoinUtils/CoinUtilsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/CoinUtils/CoinUtilsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/Osi/OsiConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/Osi/OsiConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/CoinUtils/CoinUtilsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/CoinUtils/CoinUtilsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/CoinUtils/CoinUtilsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/Osi/OsiTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/Clp/ClpTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/Cgl/CglTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/Cgl/CglTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/Clp/ClpConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/Clp/ClpConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/CoinUtils/CoinUtilsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/CoinUtils/CoinUtilsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/CoinUtils/CoinUtilsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/Osi/OsiConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/Osi/OsiConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/CoinUtils/CoinUtilsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/CoinUtils/CoinUtilsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/CoinUtils/CoinUtilsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/Osi/OsiTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/Clp/ClpTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/Cbc/CbcTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/Cbc/CbcTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/ortools/modules/FindEigen3.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/share/eigen3/cmake/Eigen3ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/share/eigen3/cmake/Eigen3Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/share/eigen3/cmake/Eigen3Targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/ortools/modules/FindSCIP.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/scip/scip-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/scip/scip-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/scip/scip-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/scip/scip-targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/ortools/ortoolsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/media/try3/DiskD/Libr/ortools/lib/cmake/ortools/ortoolsTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5/Qt5Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5/Qt5Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ModuleLocation.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QComposePlatformInputContextPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSEmulatorIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSKmsEglDeviceIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSKmsGbmIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSX11IntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevMousePlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevTabletPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QIbusPlatformInputContextPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QLibInputPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QLinuxFbIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QVncIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbEglIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbGlxIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/cmake-3.20.6/Modules/GNUInstallDirs.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/media/try3/DiskD/LinuxProg/Losen/Losen/build",
+		"source" : "/media/try3/DiskD/LinuxProg/Losen/Losen"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
